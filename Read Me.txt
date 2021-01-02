@@ -1,0 +1,2 @@
+The Processing, Cleaning, and Regressions are done in R. The Python Script was to add scrap the Video Duration and save a new CSV for US videos. The conclusions can be found on the last page of the slides!
+Thank you, please let me know if there is anything else to provide!!
